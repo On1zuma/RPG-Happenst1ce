@@ -1,4 +1,4 @@
-# RPG
+# 2D RPG
 
 This project is a culmination that allowed me to learn JAVA and put forward my knowledge.
 Make a 2D adventure RPG was like a dream for me so I make one :D .
