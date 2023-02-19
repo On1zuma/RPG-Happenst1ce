@@ -19,3 +19,14 @@ I would like to thank :
 
 This project will remain at the stage of an Alpha for the moment.
 At the current stage, we can already have an idea of the possible functionalities.
+
+## To make a jar FILE
+youtube : https://www.youtube.com/watch?v=_XQjs1xGtaU
+
+## LAUNCH4J STEPS
+![step 1](https://user-images.githubusercontent.com/96482486/219947323-2003c005-a928-46ea-a158-898ae78dbf15.png)
+
+![step 2](https://user-images.githubusercontent.com/96482486/219947328-73a1be07-797b-4364-9cc0-7813f10dafd0.png)
+![step 3 avec le nom](https://user-images.githubusercontent.com/96482486/219947332-e4134328-cef8-451c-833a-4f7b86ceb986.png)
+
+
