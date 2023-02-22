@@ -1,5 +1,6 @@
 package org.main;
-import javax.swing.JFrame;
+import javax.swing.*;
+
 import org.main.GamePanel;
 
 public class Main {
@@ -10,6 +11,10 @@ public class Main {
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setResizable(false);
         window.setTitle("Happenst1ce");
+
+        // Set favicon
+        ImageIcon icon = new ImageIcon(Main.class.getResource("/logo/favicon.png"));
+        window.setIconImage(icon.getImage());
 
         // 1Zuna //fal1tass studio //for1tess studio
         GamePanel gamePanel = new GamePanel();
