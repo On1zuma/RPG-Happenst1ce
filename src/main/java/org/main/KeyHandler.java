@@ -48,7 +48,7 @@ public class KeyHandler implements KeyListener{
                 enterPressed = true;
             }
             else if(code == KeyEvent.VK_R){
-                if(gp.gameState != gp.fightState){
+                if(gp.gameState != gp.fightState && gp.currentState > 1){
                     gp.aSetter.setNPC();
                     gp.player.worldX = gp.posAfterTpX;
                     gp.player.worldY = gp.posAfterTpY;

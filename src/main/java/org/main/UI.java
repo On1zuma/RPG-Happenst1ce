@@ -939,7 +939,7 @@ public class UI {
         text = "Move";
         g2.drawString(text, x, y);
         setFontBold(g2, 25F);
-        text = "WASD";
+        text = "ZQSD";
         g2.drawString(text, x+gp.tileSize*4+gp.tileSize/2, y);
 
         //confirm/attack 
@@ -1117,7 +1117,7 @@ public class UI {
             g2.drawString(text, x, y);
 
             setFontPlain(g2, 16F);
-            text = "all therme 'I', 'ME', concerns Wassim MESFIOUI.";
+            text = "all therme 'I', 'ME', concerns Wassim MESFIOUI / On1zuma.";
             y+= 60;
             g2.drawString(text, x, y);
         }
